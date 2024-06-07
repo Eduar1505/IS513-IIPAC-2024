@@ -21,5 +21,5 @@ void main() {
 
   final int edad = 30;
 //   edad = 9;
-  bool esMayor;
+//bool esMayor;
 }
